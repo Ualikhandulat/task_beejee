@@ -1,0 +1,5 @@
+setting .env file for you DB
+run php -S localhost:8000 in /public folder
+open url localhost:8000/migrate in you browser
+
+Begin you ToDo list
